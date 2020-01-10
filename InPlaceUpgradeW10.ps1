@@ -1,6 +1,6 @@
 Set-ExecutionPolicy Unrestricted
 
-$dir = “c:\temp“
+$dir = "c:\temp"
 
 mkdir $dir
 
